@@ -1,7 +1,7 @@
 ---
 title: "V2 Beauty"
 description: "Interactive prototype for an online retail shop"
-dateString: Sep 2022
+dateString: "Jul 2021"
 draft: false
 tags: ["Prototype", "Mock up", "Adobe XD", "UI Design"]
 showToc: false
