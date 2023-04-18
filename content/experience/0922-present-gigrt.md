@@ -9,8 +9,8 @@ weight: 401
 --- 
 
 ### Description
-
-- Develop, maintain and support custom-built software applications used in Gaming Operations
-- Develop software solutions for interfacing with customised hardware
+- Design and develop 3 main features in front-end application to meet functional and technical requirements (React JS, Material UI)
+- Involved in mobile Android app development using React Native
+- Integrate backend API (Java Spring Boot) and collaborate with UX designer to improve usability (Figma)
+- Participate in code reviews, provide constructive feedback and seek opportunities for improvement
 - Prepare technical documentation on Jira and Confluence
-- Provide post-implementation support and carry out investigation and troubleshooting when necessary
