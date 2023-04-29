@@ -3,14 +3,13 @@ title: "Software Engineer"
 description: "Genting Int'l Gaming & Resort Technologies"
 dateString: Sep 2022 - Present
 draft: false
-tags: ["Java", "Spring Boot", "React", "TypeScript"]
+tags: ["Java", "Spring Boot", "React", "TypeScript", "React Native", "Material UI"]
 showToc: false
 weight: 401
 --- 
 
 ### Description
-- Design and develop 3 main features in front-end application to meet functional and technical requirements (React JS, Material UI)
-- Involved in mobile Android app development using React Native
-- Integrate backend API (Java Spring Boot) and collaborate with UX designer to improve usability (Figma)
-- Participate in code reviews, provide constructive feedback and seek opportunities for improvement
-- Prepare technical documentation on Jira and Confluence
+- Design and develop 3 main features in web front-end and 1 feature in mobile application to meet functional and technical requirements (React JS, Material UI, React Native, TypeScript)
+- Implement and integrate backend APIs (Java Spring Boot) and collaborate with UX designer and business analysts to improve usability (Figma)
+- Conduct thorough code reviews to identify and address potential issues in collaboration with other team members, provide constructive feedback and seek opportunities for improvement
+
