@@ -70,7 +70,7 @@ params:
     - name: "github"
       url: "https://github.com/vivo1310"
     - name: "cv"
-      url: "https://docs.google.com/document/d/e/2PACX-1vS4-lGpzu9HPceVK7TM089biZTdo_2Ah5AZswjx3JhHyerMGHpbB6pRPqgLw1r3C59vEgxH69NIixk3/pub"
+      url: "https://docs.google.com/document/d/e/2PACX-1vRIj7ME5wClNN6OBRBdh6h7HATQcY-RzUHJ-27xTjBn6Fm9B8Yy0J871n9ttlrEERhoxBt_lnh_uTUi/pub"
 
   # text search
   fuseOpts:
