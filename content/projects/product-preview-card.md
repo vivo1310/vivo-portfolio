@@ -5,7 +5,7 @@ dateString: Sep 2022
 draft: false
 tags: ["Web Development", "Frontend Development", "HTML", "CSS"]
 showToc: false
-weight: 201
+weight: 203
 cover:
     image: "projects/product-preview-card/cover.png"
 --- 

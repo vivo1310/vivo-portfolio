@@ -5,7 +5,7 @@ dateString: "Jul 2021"
 draft: false
 tags: ["Prototype", "Mock up", "Adobe XD", "UI Design"]
 showToc: false
-weight: 202
+weight: 204
 cover:
     image: "projects/v2-beauty/v2-beauty-home.png"
 
