@@ -31,10 +31,10 @@ Skills & Additional Information
 ---------
 
 Certificates
-:   AWS Cloud Practitioner | Oracle Java Foundations Associate
+:   [AWS Cloud Practitioner](https://www.credly.com/badges/9ab64e64-f848-456f-b2a9-d3ee13607142/public_url) | [Oracle Java Foundations Associate](https://www.credly.com/badges/34852f91-9ffe-4bf0-b087-d51732abc7b8/public_url)
 
 Competitions
-:   2019-JunctionX Singapore | 2020-Shopee Code League | 2021-CodeFiesta | 2022-Shopee Product & Design Challenge
+:   2019-JunctionX Singapore | 2020-Shopee Code League | 2021-CodeFiesta | [2022-Shopee Product & Design Challenge](https://www.credly.com/badges/3a753acb-1dc9-4a98-a7ea-bbc740294ba9/public_url)
 
 Other skills
 :   UI/UX design | Web scraping | Low-code development (Microsoft PowerApps)
