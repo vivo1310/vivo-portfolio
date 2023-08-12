@@ -1,6 +1,6 @@
 ---
 draft: false
-tags: ["resume"]
+tags: ["about", "resume", "profile"]
 showToc: false
 --- 
 
@@ -8,9 +8,9 @@ Vi Vo
 ============
 
 
-A programming enthusiast, a fast learner, and a team player who is looking for a junior UI/UX Designer or Front-end Developer role in an exciting company.
+A programming enthusiast, a fast learner in problem solving, and a team player who is open for Frontend/Fullstack Engineer role in an exciting company!
 
-I'm a Vietnamese based in Singapore. Beside school and work, I occupy my time for cooking, dancing, vlogging and music producing. I love art, I love enjoying it and I love making it.
+Beside school and work, I occupy my time for cooking, dancing, vlogging and music producing. I love art, I love enjoying it and I love making it.
 
 
 Education
