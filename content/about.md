@@ -7,11 +7,13 @@ showToc: false
 Vi Vo
 ============
 
+Hey there! 👋 I'm Vi, a seasoned software engineer with a solid year of hands-on experience in designing and developing robust applications. 🖥️ My journey in software development has been incredibly rewarding.
 
-A programming enthusiast, a fast learner in problem solving, and a team player who is open for Frontend/Fullstack Engineer role in an exciting company!
+Now, I'm gearing up for a new adventure! 🌐 I've set my sights on the dynamic realm of cloud engineering and consultancy. 🚀 The prospect of leveraging my software engineering expertise to architect scalable and efficient cloud solutions has me genuinely excited.
 
-Beside school and work, I occupy my time for cooking, dancing, vlogging and music producing. I love art, I love enjoying it and I love making it.
+I'm currently exploring opportunities as a Cloud Engineer or Consultant/Practitioner as well as Software Engineer
 
+Open to new opportunities and collaborations. Let's build something great together! 🚀
 
 Education
 ---------
@@ -31,7 +33,7 @@ Skills & Additional Information
 ---------
 
 Certificates
-:   [AWS Cloud Practitioner](https://www.credly.com/badges/9ab64e64-f848-456f-b2a9-d3ee13607142/public_url) | [Oracle Java Foundations Associate](https://www.credly.com/badges/34852f91-9ffe-4bf0-b087-d51732abc7b8/public_url)
+:   [AWS Cloud Practitioner](https://www.credly.com/badges/9ab64e64-f848-456f-b2a9-d3ee13607142/public_url) | [Oracle Java Foundations Associate](https://www.credly.com/badges/34852f91-9ffe-4bf0-b087-d51732abc7b8/public_url) | [Google Cloud Technical Series 2023](https://www.credential.net/6c3ebfab-e6bc-45ff-9bd6-ac28bead51c0)
 
 Competitions
 :   2019-JunctionX Singapore | 2020-Shopee Code League | 2021-CodeFiesta | [2022-Shopee Product & Design Challenge](https://www.credly.com/badges/3a753acb-1dc9-4a98-a7ea-bbc740294ba9/public_url)
@@ -43,7 +45,7 @@ Language
 :   Vietnamese (Native) | English (Fluent)
 
 Hobbies
-:   music production | content creation | video editing | dancing
+:   music production | content creation | video editing | dancing | crocheting
  
 
 Social Media & Contact
