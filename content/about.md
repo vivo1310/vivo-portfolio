@@ -11,9 +11,10 @@ Hey there! 👋 I'm Vi, a seasoned software engineer with a solid year of hands-
 
 Now, I'm gearing up for a new adventure! 🌐 I've set my sights on the dynamic realm of cloud engineering and consultancy. 🚀 The prospect of leveraging my software engineering expertise to architect scalable and efficient cloud solutions has me genuinely excited.
 
-I'm currently exploring opportunities as a Cloud Engineer or Consultant/Practitioner as well as Software Engineer
+I'm actively seeking opportunities as a Full-Stack Software Engineer combined with Cloud Consultant roles. 💼 If you're looking for someone who can seamlessly transition from coding applications to architecting cloud solutions, let's connect!
 
-Open to new opportunities and collaborations. Let's build something great together! 🚀
+I'm currently exploring opportunities to bring my technical skills and passion for innovation to a team that values both. Open to new opportunities and collaborations. Let's build something great together! 🚀
+
 
 Education
 ---------
