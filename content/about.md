@@ -8,7 +8,7 @@ showToc: false
 
 Hey there! 👋 I'm Vi, a passionate software engineer with a strong foundation in designing and developing robust applications. 🖥️ With a solid year of hands-on experience, I've enjoyed every step of my journey in software development.
 
-I'm excited to share that I’ve officially joined <em><span style="color:#4285F4;">G</span><span style="color:#EA4335;">o</span><span style="color:#FBBC05;">o</span><span style="color:#4285F4;">g</span><span style="color:#34A853;">l</span><span style="color:#EA4335;">e</span></em>
+I'm excited to share that I’ve officially joined <strong><span style="color:#4285F4;">G</span><span style="color:#EA4335;">o</span><span style="color:#FBBC05;">o</span><span style="color:#4285F4;">g</span><span style="color:#34A853;">l</span><span style="color:#EA4335;">e</span></strong>
 as a Cloud Technical Resident! 🌐 In this role, I’m blending my software engineering expertise with cloud technology to architect scalable and efficient solutions. This experience is paving the way for my next role as a Customer Engineer, where I’ll focus on creating impactful cloud solutions.
 
 While I’m not currently seeking new opportunities, I’m always eager to connect with fellow professionals and collaborate on innovative projects. If you’re into cloud engineering, software development, or just want to chat about the latest in tech, let’s connect!
