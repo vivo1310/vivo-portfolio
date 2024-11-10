@@ -8,7 +8,7 @@ showToc: false
 
 Hey there! 👋 I'm Vi, a passionate software engineer with a strong foundation in designing and developing robust applications. 🖥️ With a solid year of hands-on experience, I've enjoyed every step of my journey in software development.
 
-I'm excited to share that I’ve officially joined <span style="color:#4285F4;">G</span><span style="color:#EA4335;">o</span><span style="color:#FBBC05;">o</span><span style="color:#4285F4;">g</span><span style="color:#34A853;">l</span><span style="color:#EA4335;">e</span>
+I'm excited to share that I’ve officially joined <em><span style="color:#4285F4;">G</span><span style="color:#EA4335;">o</span><span style="color:#FBBC05;">o</span><span style="color:#4285F4;">g</span><span style="color:#34A853;">l</span><span style="color:#EA4335;">e</span></em>
 as a Cloud Technical Resident! 🌐 In this role, I’m blending my software engineering expertise with cloud technology to architect scalable and efficient solutions. This experience is paving the way for my next role as a Customer Engineer, where I’ll focus on creating impactful cloud solutions.
 
 While I’m not currently seeking new opportunities, I’m always eager to connect with fellow professionals and collaborate on innovative projects. If you’re into cloud engineering, software development, or just want to chat about the latest in tech, let’s connect!
@@ -28,7 +28,7 @@ While I’m not currently seeking new opportunities, I’m always eager to conne
 ## Skills & Additional Information
 
 Certificates
-: [Google Associate Cloud Engineer](https://www.credly.com/badges/b19a43ed-8c5a-4313-91aa-2ab0caa7a7da/public_url)
+: [Google Associate Cloud Engineer](https://www.credly.com/badges/b19a43ed-8c5a-4313-91aa-2ab0caa7a7da/public_url) |
 [AWS Cloud Practitioner](https://www.credly.com/badges/9ab64e64-f848-456f-b2a9-d3ee13607142/public_url) | [Oracle Java Foundations Associate](https://www.credly.com/badges/34852f91-9ffe-4bf0-b087-d51732abc7b8/public_url) | [Google Cloud Technical Series 2023](https://www.credential.net/6c3ebfab-e6bc-45ff-9bd6-ac28bead51c0)
 
 Competitions
