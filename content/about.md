@@ -27,7 +27,8 @@ While I’m not currently seeking new opportunities, I’m always eager to conne
 ## Skills & Additional Information
 
 Certificates
-: [AWS Cloud Practitioner](https://www.credly.com/badges/9ab64e64-f848-456f-b2a9-d3ee13607142/public_url) | [Oracle Java Foundations Associate](https://www.credly.com/badges/34852f91-9ffe-4bf0-b087-d51732abc7b8/public_url) | [Google Cloud Technical Series 2023](https://www.credential.net/6c3ebfab-e6bc-45ff-9bd6-ac28bead51c0)
+: [Google Associate Cloud Engineer](https://www.credly.com/badges/b19a43ed-8c5a-4313-91aa-2ab0caa7a7da/public_url)
+[AWS Cloud Practitioner](https://www.credly.com/badges/9ab64e64-f848-456f-b2a9-d3ee13607142/public_url) | [Oracle Java Foundations Associate](https://www.credly.com/badges/34852f91-9ffe-4bf0-b087-d51732abc7b8/public_url) | [Google Cloud Technical Series 2023](https://www.credential.net/6c3ebfab-e6bc-45ff-9bd6-ac28bead51c0)
 
 Competitions
 : 2019-JunctionX Singapore | 2020-Shopee Code League | 2021-CodeFiesta | [2022-Shopee Product & Design Challenge](https://www.credly.com/badges/3a753acb-1dc9-4a98-a7ea-bbc740294ba9/public_url)
