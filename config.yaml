@@ -46,7 +46,7 @@ params:
   profileMode:
     enabled: true
     title: "Vi Vo"
-    subtitle: "Software Engineer"
+    subtitle: "Customer Engineer"
     imageUrl: "home/vi.png"
     imageWidth: 300
     imageHeight: 400
